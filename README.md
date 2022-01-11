@@ -1,2 +1,2 @@
-# Pyhtonic-Monopoly
+# Pythonic-Monopoly
 Unit 6 Homework Assignment - Pyviz
