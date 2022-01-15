@@ -3,6 +3,8 @@ Unit 6 Homework Assignment - Pyviz
 
 # How To Navigate and Operate my Dashboard 
 
+To see this dashboard, run the command 'dashboard.servable()' in my dashboard notebook.
+
 ## 'Welcome'
 The first tab 'Welcome' contains a scatter mapbox of San Francisco, and a description of my dashboard. 
 The color of the circle indicates the gross rent. The darker the color, the lower the monthly rent.
